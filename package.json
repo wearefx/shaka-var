@@ -1,0 +1,16 @@
+{
+  "name": "@fxdigital/shaka-var",
+  "version": "2.4.4",
+  "description": "",
+  "main": "build/shaka.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "shaka-player": "^2.4.4",
+    "webpack": "^4.20.2",
+    "webpack-cli": "^3.1.2"
+  }
+}

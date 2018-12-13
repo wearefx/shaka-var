@@ -1,6 +1,6 @@
 {
   "name": "@fxdigital/shaka-var",
-  "version": "2.4.5",
+  "version": "2.5.0-beta2",
   "description": "",
   "main": "build/shaka.js",
   "scripts": {
@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "shaka-player": "2.4.5",
+    "shaka-player": "2.5.0-beta2",
     "webpack": "^4.20.2",
     "webpack-cli": "^3.1.2"
   }

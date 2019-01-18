@@ -1,1 +1,1 @@
-module.exports = require('shaka-player/dist/shaka-player.compiled');
+module.exports = require('@fxdigital/shaka-player/dist/shaka-player.compiled');
